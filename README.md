@@ -21,7 +21,7 @@ Users were selected at random for inclusion. All selected users had rated at lea
 
 The data are contained in the files genome-scores.csv, genome-tags.csv, links.csv, movies.csv, ratings.csv and tags.csv.
 
-For our objective, we would be using "ratings.csv" and "movies.csv" data files.
+
 
 Modelling :
 The following modelling approach was used in the project:
